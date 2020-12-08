@@ -1,0 +1,39 @@
+body{
+  text-align:center;
+  background-color:#630404;
+}
+img{
+  border-radius:1000px;
+  width:200px;
+
+
+}
+h2{
+  font-size:60px;
+  background-color:#ff8400;
+}
+h1{
+  font-size:50px;
+  background-color:#ff8400;
+}
+p1{
+  font-size:20px;
+    text-decoration-color: gold;
+}
+.links {
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family:fantasy;
+    font-size: 20px
+    
+}
+
+
+
+.links:hover {
+    background-color:goldenrod;
+}
